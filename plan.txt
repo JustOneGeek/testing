@@ -1,0 +1,58 @@
+
+# Flask Day 5
+
+# Recap and Oral Quiz
+# Whiteboard
+
+# Fix edit profile button
+
+# get_icon_url function to user Model
+	add to user class
+	update navbar
+
+# Homework example
+
+	# New API Call from selection of apis
+		# https://platform.seatgeek.com/
+		# https://developer.marvel.com/docs
+		# https://www.tvmaze.com/api
+		#
+		 
+# Add Posts Section
+	# model
+		# update User db
+			# https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-viii-followers
+		# Update Post db
+		# create posts in Flask Shell
+		
+	# move slash/index route to social bp
+		# update slash/index links in navbar and auth routes
+		
+	# Create Post Route
+	
+	# slash/index route to show all followed posts
+		# route
+		# html
+	
+	# Create Post HTML in Index.html
+		# _post .html
+		
+	# Show Posts
+		index.html show posts for all people you are following
+		
+		# View Individual post
+			# post.html
+			# view post route - passing params through url
+			
+	# Edit post (if you own)
+		# add edit button to post
+		# edit post route
+	
+	# Click icon and View your posts
+		# route for only your posts
+		# html for only you posts
+	
+	# add Flask Moment
+	
+
+		
